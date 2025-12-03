@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <unistd.h>
-
+#include <curl/curl.h>
 //======================================= Space for macro or global variables ====================================//
 
 #define EXT_SUCCESS 0

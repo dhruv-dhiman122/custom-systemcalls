@@ -9,6 +9,10 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <unistd.h>
+#include <glib-2.0/glib/galloca.h>
+#include <glib.h>
+#include <glib-2.0/glib.h>
+#include <libnotify/notify.h>
 
 //======================================= Space for macro or global variables ====================================//
 
